@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlateauCode</string>
+    <string name="action_settings">Settings</string>
+    <string name="page_title">Welcome Back</string>
+</resources>
